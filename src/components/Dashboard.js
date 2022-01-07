@@ -29,7 +29,7 @@ export default function Dashboard(props) {
 
   return (
     <div>
-      <h1>logged in {$name}</h1>
+      <h1>logged in {name}</h1>
     </div>
   );
 }
